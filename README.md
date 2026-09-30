@@ -8,5 +8,5 @@ It predicts:
 - Ticket category
 - Ticket urgency
 - Prediction confidence
-
+  
 Low-confidence predictions are sent for human review.
