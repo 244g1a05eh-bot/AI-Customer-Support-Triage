@@ -1,0 +1,21 @@
+ticket_text,category,urgency
+"My payment failed",Billing,High
+"I was charged twice",Billing,High
+"Payment is pending",Billing,Medium
+"How can I get a refund?",Billing,Medium
+"My card was declined",Billing,High
+"I forgot my password",Account,Medium
+"How do I change my email?",Account,Low
+"I cannot login to my account",Account,High
+"Please reset my password",Account,Medium
+"My account is locked",Account,High
+"The app keeps crashing",Technical,High
+"The website is not loading",Technical,High
+"I found a technical error",Technical,Medium
+"The page is showing an error",Technical,Medium
+"App is very slow",Technical,Medium
+"How do I use this feature?",Product,Low
+"Where can I find the settings?",Product,Low
+"Can you explain this product?",Product,Low
+"I need help using the dashboard",Product,Low
+"How does this feature work?",Product,Low
