@@ -10,4 +10,12 @@ It predicts:
 - Prediction confidence
   
 Low-confidence predictions are sent for human review.
+### Technologies Used
 
+- Python
+- Pandas
+- Scikit-learn
+- TF-IDF
+- Logistic Regression
+- Joblib
+- Streamlit
